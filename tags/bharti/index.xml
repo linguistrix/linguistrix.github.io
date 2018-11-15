@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bharti on Linguistrix</title>
+    <link>http://www.linguistrix.com/tags/bharti/</link>
+    <description>Recent content in Bharti on Linguistrix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2013 13:47:23 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.linguistrix.com/tags/bharti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One script to bind them all</title>
+      <link>http://www.linguistrix.com/2013/07/one-script-to-bind-them-all/</link>
+      <pubDate>Sun, 28 Jul 2013 13:47:23 +0000</pubDate>
+      
+      <guid>http://www.linguistrix.com/2013/07/one-script-to-bind-them-all/</guid>
+      <description>A couple of days ago, I came across a few news reports that a professor from IIT Madras (Professor V Srinivas Chakravarthy) has developed a script (called Bharati) to &amp;ldquo;unify 22 Indian languages&amp;rdquo;. As a script-enthusiast, I was of course slightly interested.
+There is a lot of self-congratulatory rhetoric in India about how Indian scripts are very &amp;lsquo;scientific&amp;rsquo;. On the contrary, the English script (which, in most cases, is the only other kind of script most Indians know) is criticized for being arbitrary, ambiguous, unscientific, what have you.</description>
+    </item>
+    
+  </channel>
+</rss>

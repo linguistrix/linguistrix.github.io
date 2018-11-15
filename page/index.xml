@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Linguistrix</title>
+    <link>http://www.linguistrix.com/page/</link>
+    <description>Recent content in Pages on Linguistrix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2011 05:32:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.linguistrix.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.linguistrix.com/about-me/</link>
+      <pubDate>Mon, 12 Sep 2011 05:32:29 +0000</pubDate>
+      
+      <guid>http://www.linguistrix.com/about-me/</guid>
+      <description>For someone who&amp;rsquo;s deeply into Languages and Linguistics, I started rather late. Although my contact with Linguistics was in Class VIII, when my English teacher taught me how to write the phonetic transcription for English words, it wasn&amp;rsquo;t until after I had taken JEE that I actually started exploring languages. What began as an activity to pass the boring summer months before joining IIT slowly developed into an almost full-time avocation.</description>
+    </item>
+    
+  </channel>
+</rss>

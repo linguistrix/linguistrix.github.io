@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orthography on Linguistrix</title>
+    <link>http://www.linguistrix.com/tags/orthography/</link>
+    <description>Recent content in Orthography on Linguistrix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2016 17:38:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.linguistrix.com/tags/orthography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What should be India’s common script?</title>
+      <link>http://www.linguistrix.com/2016/07/what-should-be-indias-common-script/</link>
+      <pubDate>Fri, 01 Jul 2016 17:38:18 +0000</pubDate>
+      
+      <guid>http://www.linguistrix.com/2016/07/what-should-be-indias-common-script/</guid>
+      <description>I have a lot of interest in writing systems, which is why you will find a lot of posts on this blog around them. A few years ago, I wrote about the Bharati script, which was touted as an attempt to create a universal script for Indian languages. I had expressed measured skepticism about the idea, but had also said I would like to see the script, and luckily, was contacted by Chetan Shenoy, an undergrad from IIT Madras, who works under Prof Chakravarthy, the creator of the script.</description>
+    </item>
+    
+  </channel>
+</rss>
