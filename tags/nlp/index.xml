@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nlp on Linguistrix</title>
-    <link>http://www.linguistrix.com/tags/nlp/</link>
+    <link>https://linguistrix.github.io/tags/nlp/</link>
     <description>Recent content in Nlp on Linguistrix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Nov 2011 06:27:06 +0000</lastBuildDate>
     
-	<atom:link href="http://www.linguistrix.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linguistrix.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Anil Kapoor चट्टानों MI4!</title>
-      <link>http://www.linguistrix.com/2011/11/anil-kapoor-%E0%A4%9A%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-mi4/</link>
+      <link>https://linguistrix.github.io/2011/11/anil-kapoor-%E0%A4%9A%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-mi4/</link>
       <pubDate>Wed, 16 Nov 2011 06:27:06 +0000</pubDate>
       
-      <guid>http://www.linguistrix.com/2011/11/anil-kapoor-%E0%A4%9A%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-mi4/</guid>
+      <guid>https://linguistrix.github.io/2011/11/anil-kapoor-%E0%A4%9A%E0%A4%9F%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82-mi4/</guid>
       <description>A recent tweet by Tom Cruise shows us the perils of machine translation and literal translation.
 The first part of the tweet is of course absolutely unidiomatic, but you can figure out what it is trying to say. But the second part will flummox any reader who is not familiar with English expressions. This was obviously the result of English—&amp;gt;Hindi machine translation of something like &amp;ldquo;We are really looking forward to talking to our friends in India when @GhostProtocol comes out soon.</description>
     </item>

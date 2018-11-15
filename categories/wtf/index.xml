@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wtf on Linguistrix</title>
-    <link>http://www.linguistrix.com/categories/wtf/</link>
+    <link>https://linguistrix.github.io/categories/wtf/</link>
     <description>Recent content in Wtf on Linguistrix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Nov 2011 05:03:31 +0000</lastBuildDate>
     
-	<atom:link href="http://www.linguistrix.com/categories/wtf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linguistrix.github.io/categories/wtf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The WTF files—Jimmy Wales on Latin</title>
-      <link>http://www.linguistrix.com/2011/11/the-wtf-filesjimmy-wales-on-latin/</link>
+      <link>https://linguistrix.github.io/2011/11/the-wtf-filesjimmy-wales-on-latin/</link>
       <pubDate>Sat, 19 Nov 2011 05:03:31 +0000</pubDate>
       
-      <guid>http://www.linguistrix.com/2011/11/the-wtf-filesjimmy-wales-on-latin/</guid>
+      <guid>https://linguistrix.github.io/2011/11/the-wtf-filesjimmy-wales-on-latin/</guid>
       <description>The first entry on the WTF files on Linguistrix is supposedly a quote by Jimmy Wales published in today&amp;rsquo;s HT (Wikipedia woos India with local languages). I say supposedly because I really hope that this attribution is incorrect, that this is the result of stupid paraphrasing, and that Jimmy Wales didn&amp;rsquo;t actually say something so hopelessly asinine—
  “In languages such as Latin, expressing an idea becomes difficult because the language is not commonly spoken and written.</description>
     </item>

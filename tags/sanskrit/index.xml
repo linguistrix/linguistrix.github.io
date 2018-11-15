@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanskrit on Linguistrix</title>
-    <link>http://www.linguistrix.com/tags/sanskrit/</link>
+    <link>https://linguistrix.github.io/tags/sanskrit/</link>
     <description>Recent content in Sanskrit on Linguistrix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Sep 2011 17:38:29 +0000</lastBuildDate>
     
-	<atom:link href="http://www.linguistrix.com/tags/sanskrit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linguistrix.github.io/tags/sanskrit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sanskr[i|u]t</title>
-      <link>http://www.linguistrix.com/2011/09/sanskriut/</link>
+      <link>https://linguistrix.github.io/2011/09/sanskriut/</link>
       <pubDate>Fri, 09 Sep 2011 17:38:29 +0000</pubDate>
       
-      <guid>http://www.linguistrix.com/2011/09/sanskriut/</guid>
+      <guid>https://linguistrix.github.io/2011/09/sanskriut/</guid>
       <description>You may have observed that most speakers of Hindi pronounce ऋ as essentially रि [rɪ] thus pronouncing words like ऋषभ or कृषि or आकृति as रिषभ, क्रिषि and आक्रिति respectively while speakers of Marathi and Gujarati pronounce it as रु [rʊ] thus saying रुषभ, क्रुषि and आक्रुती. It is a completely different matter that most Hindi speakers do not pronounce ष as a distinct sound. They use the same sound for ष and श, roughly the voiceless post-alveolar fricative, which also explains why most of us spent a lot of sweat and blood in memorizing when a word had श and when it had ष—there were no phonetic clues to differentiate between what was essentially a spelling distinction.</description>
     </item>
     
